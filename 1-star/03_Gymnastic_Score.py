@@ -1,0 +1,1 @@
+print(round(sum(sorted([float(n) for n in input().split()])[1:3]) / 2, 2))
