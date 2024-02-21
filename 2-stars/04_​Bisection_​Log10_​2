@@ -1,5 +1,8 @@
+a = float(input())
+initial_u = len(str(int(a)))
 L = 0
-U = a = float(input())
+U = initial_u
+
 x = (L + U) / 2
 while abs(a - 10**x) > 10 ** (-10) * max(a, 10**x):
     if 10**x > a:
