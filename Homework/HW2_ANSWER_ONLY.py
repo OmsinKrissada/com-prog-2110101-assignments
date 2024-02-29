@@ -20,27 +20,26 @@ def get_gc_percentage(data):
     interested = counts[1] + counts[2]
     return interested / len(data)
 
-# def get_repeat_count(data, pattern):
-#     # big fail :(
-#     # 
-#     # found = pattern_lookup_index = 0
-#     # for c in data:
-#     #     if c != pattern[pattern_lookup_index]:
-#     #         if found > 0:
-#     #             break
-#     #         else:
-#     #             continue
-#     #     if pattern_lookup_index == len(pattern) - 1:
-#     #         found += 1
-#     #         pattern_lookup_index = 0
-#     #         continue
-#     #     pattern_lookup_index += 1
-#     # return found if found > 1 else 0
-#     pattern_repeat = 1
-#     while True:
-#         if pattern * pattern_repeat not in data:
-#             return pattern_repeat - 1 if pattern_repeat - 1 > 1 else 0
-#         pattern_repeat += 1
+def get_repeat_count(data, pattern):
+    # found = pattern_lookup_index = 0
+    # for c in data:
+    #     if c != pattern[pattern_lookup_index]:
+    #         if found == 1:
+    #             found = 0
+    #         elif found > 1:
+    #             break
+    #         continue
+    #     if pattern_lookup_index == len(pattern) - 1:
+    #         found += 1
+    #         pattern_lookup_index = 0
+    #         continue
+    #     pattern_lookup_index += 1
+    # return found if found > 1 else 0
+    pattern_repeat = 1
+    while True:
+        if pattern * pattern_repeat not in data:
+            return pattern_repeat - 1 if pattern_repeat - 1 > 1 else 0
+        pattern_repeat += 1
 
 # def get_repeat_count(data, pattern):
 #     count = 0
@@ -66,19 +65,19 @@ def get_gc_percentage(data):
 #                 count = 0
 #     return count
 
-def get_repeat_count(data, pattern):
-    count = 0
-    for i in range(len(data)-1):
-        if data[i+1] == pattern[1] and data[i] == pattern[0]:
-            count += 1
-        elif i < len(data) - 2 and data[i] != pattern[0] and data[i] != data[i+2]  and data[i-1] != pattern[1]:
-            if count == 1:
-                count = 0
-            elif count > 1:
-                break
-    if count == 1:
-        count = 0
-    return count
+# def get_repeat_count(data, pattern):
+#     count = 0
+#     for i in range(len(data)-1):
+#         if data[i+1] == pattern[1] and data[i] == pattern[0]:
+#             count += 1
+#         elif i < len(data) - 2 and data[i] != pattern[0] and data[i] != data[i+2]  and data[i-1] != pattern[1]:
+#             if count == 1:
+#                 count = 0
+#             elif count > 1:
+#                 break
+#     if count == 1:
+#         count = 0
+#     return count
 
 # def get_acgt_count(data):
 #   date_A=0mm
