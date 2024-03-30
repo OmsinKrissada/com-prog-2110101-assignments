@@ -13,6 +13,27 @@
 | 1335 | 2566_2_Quiz_1_1                 | [2566_2_Quiz_1_1.pdf](files/2566_2_Quiz_1_1.pdf)       | 2.0   |
 | 1337 | 2566_2_Quiz_1_2                 | [2566_2_Quiz_1_2.pdf](files/2566_2_Quiz_1_2.pdf)       | 1.0   |
 | 1336 | 2566_2_Quiz_1_3                 | [2566_2_Quiz_1_3.pdf](files/2566_2_Quiz_1_3.pdf)       | 2.0   |
+| 1011 | Part-III-Gray-Codes             | [P3_01_Gray.pdf](files/P3_01_Gray.pdf)                 | 2.5   |
+| 1012 | Part-III-Giant-Checker          | [P3_02_Checker.pdf](files/P3_02_Checker.pdf)           | 3.0   |
+| 1013 | Part-III-Text-Formatting        | [P3_03_Text.pdf](files/P3_03_Text.pdf)                 | 3.0   |
+| 1014 | Part-III-Ascii-Text             | [P3_04_Ascii.pdf](files/P3_04_Ascii.pdf)               | 3.0   |
+| 1015 | Part-III-Spiral-Square          | [P3_05_Spiral.pdf](files/P3_05_Spiral.pdf)             | 3.5   |
+| 1016 | Part-III-Movie-Stars            | [P3_06_MovieStar.pdf](files/P3_06_MovieStar.pdf)       | 2.0   |
+| 1017 | Part-III-Search-Engine          | [P3_07_Search.pdf](files/P3_07_Search.pdf)             | 1.5   |
+| 1018 | Part-III-Bidding                | [P3_08_Bidding.pdf](files/P3_08_Bidding.pdf)           | 3.5   |
+| 1019 | Part-III-BNK48                  | [P3_09_BNK48.pdf](files/P3_09_BNK48.pdf)               | 3.5   |
+| 1020 | Part-III-NumPy-Functions        | [P3_10_NumPy1.pdf](files/P3_10_NumPy1.pdf)             | 2.5   |
+| 983  | 10_Union Intersection           | [09_MoreDC_12.pdf](files/09_MoreDC_12.pdf)             | 1.0   |
+| 984  | 10_Winner                       | [09_MoreDC_13.pdf](files/09_MoreDC_13.pdf)             | 1.0   |
+| 985  | 10_Database                     | [09_MoreDC_14.pdf](files/09_MoreDC_14.pdf)             | 1.5   |
+| 924  | 10_GenreTotalPlaytime           | [09_MoreDC_23.pdf](files/09_MoreDC_23.pdf)             | 2.0   |
+| 925  | 10_Cartoon                      | [09_MoreDC_24.pdf](files/09_MoreDC_24.pdf)             | 2.0   |
+| 986  | 10_Location Analysis            | [09_MoreDC_26.pdf](files/09_MoreDC_26.pdf)             | 2.0   |
+| 987  | 10_Celebrity                    | [09_MoreDC_27.pdf](files/09_MoreDC_27.pdf)             | 2.0   |
+| 923  | 10_Polynomial                   | [09_MoreDC_33.pdf](files/09_MoreDC_33.pdf)             | 3.0   |
+| 988  | 10_Student Info                 | [09_MoreDC_35.pdf](files/09_MoreDC_35.pdf)             | 3.0   |
+| 990  | 10_Dept Selection               | [09_MoreDC_37.pdf](files/09_MoreDC_37.pdf)             | 3.0   |
+| 991  | 10_Sky Train                    | [09_MoreDC_38.pdf](files/09_MoreDC_38.pdf)             | 3.0   |
 | 982  | 09_Dedent                       | [09_MoreDC_11.pdf](files/09_MoreDC_11.pdf)             | 1.0   |
 | 919  | 09_Factorization                | [09_MoreDC_21.pdf](files/09_MoreDC_21.pdf)             | 2.0   |
 | 922  | 09_Matrix                       | [09_MoreDC_22.pdf](files/09_MoreDC_22.pdf)             | 2.0   |
