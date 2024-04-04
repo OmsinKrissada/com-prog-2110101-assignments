@@ -10,9 +10,6 @@
 
 | ID   | Task Name                       | File name                                              | Stars |
 | ---- | ------------------------------- | ------------------------------------------------------ | ----- |
-| 1335 | 2566_2_Quiz_1_1                 | [2566_2_Quiz_1_1.pdf](files/2566_2_Quiz_1_1.pdf)       | 2.0   |
-| 1337 | 2566_2_Quiz_1_2                 | [2566_2_Quiz_1_2.pdf](files/2566_2_Quiz_1_2.pdf)       | 1.0   |
-| 1336 | 2566_2_Quiz_1_3                 | [2566_2_Quiz_1_3.pdf](files/2566_2_Quiz_1_3.pdf)       | 2.0   |
 | 1011 | Part-III-Gray-Codes             | [P3_01_Gray.pdf](files/P3_01_Gray.pdf)                 | 2.5   |
 | 1012 | Part-III-Giant-Checker          | [P3_02_Checker.pdf](files/P3_02_Checker.pdf)           | 3.0   |
 | 1013 | Part-III-Text-Formatting        | [P3_03_Text.pdf](files/P3_03_Text.pdf)                 | 3.0   |
@@ -23,6 +20,13 @@
 | 1018 | Part-III-Bidding                | [P3_08_Bidding.pdf](files/P3_08_Bidding.pdf)           | 3.5   |
 | 1019 | Part-III-BNK48                  | [P3_09_BNK48.pdf](files/P3_09_BNK48.pdf)               | 3.5   |
 | 1020 | Part-III-NumPy-Functions        | [P3_10_NumPy1.pdf](files/P3_10_NumPy1.pdf)             | 2.5   |
+| 927  | 11_Indexing_and_Slicing         | [10_NumPy_11.pdf](files/10_NumPy_11.pdf)               | 1.0   |
+| 928  | 11_Scalar_and_Array             | [10_NumPy_12.pdf](files/10_NumPy_12.pdf)               | 1.0   |
+| 931  | 11_Logistic_Regression          | [10_NumPy_13.pdf](files/10_NumPy_13.pdf)               | 1.0   |
+| 929  | 11_Slicing and Element-wise Op. | [10_NumPy_21.pdf](files/10_NumPy_21.pdf)               | 2.0   |
+| 930  | 11_Outer_Product                | [10_NumPy_22.pdf](files/10_NumPy_22.pdf)               | 2.0   |
+| 932  | 11_Lower_than_Mean              | [10_NumPy_23.pdf](files/10_NumPy_23.pdf)               | 2.0   |
+| 934  | 11_Peak_Indexes                 | [10_NumPy_24.pdf](files/10_NumPy_24.pdf)               | 2.0   |
 | 983  | 10_Union Intersection           | [09_MoreDC_12.pdf](files/09_MoreDC_12.pdf)             | 1.0   |
 | 984  | 10_Winner                       | [09_MoreDC_13.pdf](files/09_MoreDC_13.pdf)             | 1.0   |
 | 985  | 10_Database                     | [09_MoreDC_14.pdf](files/09_MoreDC_14.pdf)             | 1.5   |
