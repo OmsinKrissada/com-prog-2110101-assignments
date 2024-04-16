@@ -1,4 +1,6 @@
-import time
+# uncomment all these commented lines for a cool animation xd
+
+# import time
 
 direction_offset = [(1, 0), (0, 1), (-1, 0), (0, -1)]
 
@@ -22,7 +24,6 @@ def spiral_square(n):
             current_pos[1] + current_direction_offset[1],
         )
 
-        # print(current_pos)
         # print()
         # print_square(square)
         # print()
