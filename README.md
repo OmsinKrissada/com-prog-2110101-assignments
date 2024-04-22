@@ -4,12 +4,32 @@
 
 (เอาจริงก็ลงหลังหมดเขตส่งอยู่ละ lol)
 
-เลขหน้าชื่อโจทย์คือจำนวนดาว
+## Exam Task List
 
-## Tasks List
+| Task Name                                    | File name                                        |
+| -------------------------------------------- | ------------------------------------------------ |
+| Grader 1-1 (Poker Hands: Straight Flush)     | [2566_2_Quiz_1_1.pdf](files/2566_2_Quiz_1_1.pdf) |
+| Grader 1-2 (Flowchart 2 2566)                | [2566_2_Quiz_1_2.pdf](files/2566_2_Quiz_1_2.pdf) |
+| Grader 1-3 (Repeat Count)                    | [2566_2_Quiz_1_3.pdf](files/2566_2_Quiz_1_3.pdf) |
+| Grader 2-1 (ขออภัยที่มีคำไม่สุภาพในโจทย์นี้) | [2566_2_Quiz_2_1.pdf](files/2566_2_Quiz_2_1.pdf) |
+| Grader 2-2 (แลกคะแนนบัตรเครดิต)              | [2566_2_Quiz_2_2.pdf](files/2566_2_Quiz_2_2.pdf) |
+| Grader 2-3 (การจัดบรรทัดในหนึ่งย่อหน้า)      | [2566_2_Quiz_2_3.pdf](files/2566_2_Quiz_2_3.pdf) |
+| Grader 3-1 (Peak 2D)                         | [2566_2_Quiz_3_1.pdf](files/2566_2_Quiz_3_1.pdf) |
+| Grader 3-2 (เพื่อน)                          | [2566_2_Quiz_3_2.pdf](files/2566_2_Quiz_3_2.pdf) |
+| Grader 3-3 (การแนะนำคลิปจากแฮชแท็ก)          | [2566_2_Quiz_3_3.pdf](files/2566_2_Quiz_3_3.pdf) |
+
+## Grader Tasks List
 
 | ID   | Task Name                       | File name                                              | Stars |
 | ---- | ------------------------------- | ------------------------------------------------------ | ----- |
+| 1022 | 12_Complex-Number               | [12_Class_21.pdf](files/12_Class_21.pdf)               | 2.0   |
+| 1023 | 12_Card                         | [12_Class_22.pdf](files/12_Class_22.pdf)               | 2.0   |
+| 1024 | 12_Next-Card                    | [12_Class_23.pdf](files/12_Class_23.pdf)               | 2.0   |
+| 1026 | 12_Point-in-Rect                | [12_Class_31.pdf](files/12_Class_31.pdf)               | 3.0   |
+| 1027 | 12_Rect-Sorted-by-Area          | [12_Class_32.pdf](files/12_Class_32.pdf)               | 3.0   |
+| 1028 | 12_Piggy-Bank-1                 | [12_Class_33.pdf](files/12_Class_33.pdf)               | 3.0   |
+| 1029 | 12_Piggy-Bank-2                 | [12_Class_34.pdf](files/12_Class_34.pdf)               | 3.0   |
+| 1030 | 12_Roman-Numeral                | [12_Class_35.pdf](files/12_Class_35.pdf)               | 3.0   |
 | 1011 | Part-III-Gray-Codes             | [P3_01_Gray.pdf](files/P3_01_Gray.pdf)                 | 2.5   |
 | 1012 | Part-III-Giant-Checker          | [P3_02_Checker.pdf](files/P3_02_Checker.pdf)           | 3.0   |
 | 1013 | Part-III-Text-Formatting        | [P3_03_Text.pdf](files/P3_03_Text.pdf)                 | 3.0   |
