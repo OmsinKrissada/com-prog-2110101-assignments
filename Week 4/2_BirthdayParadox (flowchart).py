@@ -10,3 +10,4 @@ while 1 - t < p:
     t = (t * (365 - (k - 1))) / 365
 
 print(k)
+and
